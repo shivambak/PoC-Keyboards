@@ -1,7 +1,29 @@
 .App {
-  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  padding: 10px;
 }
 
+.button {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+h3 {
+  border-style: double;
+  border-color: black;
+  padding: 5px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+h1 {
+  
+  border-style: double;
+  border-color: black;
+  padding: 5px;
+  border-radius: 5px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,6 +34,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;
