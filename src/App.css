@@ -4,6 +4,9 @@
   padding: 10px;
 }
 
+a{
+  color: black
+}
 .button {
   font-family: 'Times New Roman', Times, serif;
 }
