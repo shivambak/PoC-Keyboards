@@ -1,6 +1,8 @@
 .LegoPage {
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
+  background: url('./How-to-Build-Your-Lego-Collection-Gear-GettyImages-900408694.jpg.webp') no-repeat center center fixed;
+  background-size: cover;
 }
 
 .LegoPage-header {
@@ -25,6 +27,11 @@
 .content {
   padding: 20px;
   text-align: left;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin: 20px auto;
+  max-width: 1200px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .content h2 {
