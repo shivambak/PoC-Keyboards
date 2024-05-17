@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/PoC-Keyboards/static/css/main.ba2a34ce.css",
-    "main.js": "/PoC-Keyboards/static/js/main.36c98613.js",
+    "main.css": "/PoC-Keyboards/static/css/main.945c4ff8.css",
+    "main.js": "/PoC-Keyboards/static/js/main.9c80c687.js",
     "static/js/453.522c00a7.chunk.js": "/PoC-Keyboards/static/js/453.522c00a7.chunk.js",
+    "static/media/CQaJkg.png": "/PoC-Keyboards/static/media/CQaJkg.ef98d60c3b31c8b03cb5.png",
     "static/media/rock-one-eyebrow-raised-rock-staring.gif": "/PoC-Keyboards/static/media/rock-one-eyebrow-raised-rock-staring.4921cda48c9c6f08228f.gif",
+    "static/media/How-to-Build-Your-Lego-Collection-Gear-GettyImages-900408694.jpg.webp": "/PoC-Keyboards/static/media/How-to-Build-Your-Lego-Collection-Gear-GettyImages-900408694.jpg.4c766cc502659b647238.webp",
+    "static/media/42171_boxprod_v39.png": "/PoC-Keyboards/static/media/42171_boxprod_v39.322ee84b173496c53e21.png",
+    "static/media/GUEST_38640fdd-c8a1-4057-856d-48067eede8ee.jpeg": "/PoC-Keyboards/static/media/GUEST_38640fdd-c8a1-4057-856d-48067eede8ee.f54309b50af13b635c1b.jpeg",
     "static/media/1664006918432.jpeg": "/PoC-Keyboards/static/media/1664006918432.bae48853dec4b5249bbd.jpeg",
     "index.html": "/PoC-Keyboards/index.html",
-    "main.ba2a34ce.css.map": "/PoC-Keyboards/static/css/main.ba2a34ce.css.map",
-    "main.36c98613.js.map": "/PoC-Keyboards/static/js/main.36c98613.js.map",
+    "main.945c4ff8.css.map": "/PoC-Keyboards/static/css/main.945c4ff8.css.map",
+    "main.9c80c687.js.map": "/PoC-Keyboards/static/js/main.9c80c687.js.map",
     "453.522c00a7.chunk.js.map": "/PoC-Keyboards/static/js/453.522c00a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba2a34ce.css",
-    "static/js/main.36c98613.js"
+    "static/css/main.945c4ff8.css",
+    "static/js/main.9c80c687.js"
   ]
 }
