@@ -1,50 +1,79 @@
 .LegoPage {
-    text-align: center;
-    font-family: Arial, sans-serif;
-  }
-  
-  .LegoPage-header {
-    background-color: #282c34;
-    padding: 20px;
-    color: white;
-  }
-  
-  .LegoPage-header h1 {
-    font-size: 3em;
-    margin: 0;
-  }
-  
-  .main-image img {
-    width: 100%;
-    height: auto;
-    margin: 20px 0;
-  }
-  
-  .content {
-    padding: 20px;
-    text-align: left;
-  }
-  
-  .content h2 {
-    color: black;
-    margin-top: 20px;
-  }
-  
-  .content p, .content ul {
-    color: black;
-    font-size: 1.2em;
-  }
-  
-  .additional-images {
-    display: flex;
-    justify-content: space-around;
-    margin: 20px 0;
-  }
-  
-  .additional-images img {
-    width: 30%;
-    height: auto;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 5px;
-  }
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.LegoPage-header {
+  padding: 20px;
+  color: white;
+  background: url('./How-to-Build-Your-Lego-Collection-Gear-GettyImages-900408694.jpg.webp') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.LegoPage-header h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+
+.main-image img {
+  width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+.content {
+  padding: 20px;
+  text-align: left;
+}
+
+.content h2 {
+  border-style: double;
+  border-color: black;
+  padding: 5px;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0;
+}
+
+.content p,
+.content ul {
+  color: black;
+  font-size: 1.2em;
+  margin-bottom: 50px;
+}
+
+.content p:last-of-type{
+  margin-bottom: 0px;
+}
+
+.additional-images {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+  gap: 20px;
+  flex-wrap: wrap;
+
+}
+.additional-images a{
+  width: 30%;
+}
+
+.additional-images figure {
+  position: relative;
+  width: 20%;
+  margin: 0;
+}
+
+.additional-images img {
+  width: 95%;
+  height: 95%;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.additional-images img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
