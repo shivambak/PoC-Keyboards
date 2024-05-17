@@ -9,7 +9,7 @@ function LegoPage() {
       </header>
       <main>
         <section className="main-image">
-          <img src="/images/lego-main.jpg" alt="Colorful Lego Bricks" />
+          <img src="./How-to-Build-Your-Lego-Collection-Gear-GettyImages-900408694.jpg.webp" alt="Colorful Lego Bricks" />
         </section>
         <section className="content">
           <h2>About Legos</h2>
@@ -29,9 +29,9 @@ function LegoPage() {
           </p>
         </section>
         <section className="additional-images">
-          <img src="/images/lego-set1.jpg" alt="Lego Set 1" />
-          <img src="/images/lego-set2.jpg" alt="Lego Set 2" />
-          <img src="/images/lego-set3.jpg" alt="Lego Set 3" />
+          <img src="./CQaJkg.png" alt="Lego Set 1" />
+          <img src="./42171_boxprod_v39.png" alt="Lego Set 2" />
+          <img src="./GUEST_38640fdd-c8a1-4057-856d-48067eede8ee.jpeg" alt="Lego Set 3" />
         </section>
       </main>
     </div>

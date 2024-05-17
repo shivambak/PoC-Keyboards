@@ -10,7 +10,7 @@ function App() {
   
   return (
     
-    <Router basename = "PoC-Keyboards/">
+    <Router basename = "/PoC-Keyboards">
       <NavigationBar />
        <Routes>
           <Route index element={<Home />} />
