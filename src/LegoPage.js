@@ -1,5 +1,9 @@
 import React from 'react';
 import './LegoPage.css';
+import legos from "./How-to-Build-Your-Lego-Collection-Gear-GettyImages-900408694.jpg.webp";
+import starwars from "./CQaJkg.png";
+import f1 from "./42171_boxprod_v39.png";
+import tower from "./GUEST_38640fdd-c8a1-4057-856d-48067eede8ee.jpeg";
 
 function LegoPage() {
   return (
@@ -9,7 +13,7 @@ function LegoPage() {
       </header>
       <main>
         <section className="main-image">
-          <img src="./How-to-Build-Your-Lego-Collection-Gear-GettyImages-900408694.jpg.webp" alt="Colorful Lego Bricks" />
+          <img src={legos} alt="Colorful Lego Bricks" />
         </section>
         <section className="content">
           <h2>About Legos</h2>
@@ -29,9 +33,9 @@ function LegoPage() {
           </p>
         </section>
         <section className="additional-images">
-          <img src="./CQaJkg.png" alt="Lego Set 1" />
-          <img src="./42171_boxprod_v39.png" alt="Lego Set 2" />
-          <img src="./GUEST_38640fdd-c8a1-4057-856d-48067eede8ee.jpeg" alt="Lego Set 3" />
+          <img src={starwars} alt="Lego Set 1" />
+          <img src={f1} alt="Lego Set 2" />
+          <img src={tower} alt="Lego Set 3" />
         </section>
       </main>
     </div>
