@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PoC-Keyboards/static/css/main.ee123ff8.css",
-    "main.js": "/PoC-Keyboards/static/js/main.e8d5fdd6.js",
+    "main.css": "/PoC-Keyboards/static/css/main.ba2a34ce.css",
+    "main.js": "/PoC-Keyboards/static/js/main.fccfe4d6.js",
     "static/js/453.522c00a7.chunk.js": "/PoC-Keyboards/static/js/453.522c00a7.chunk.js",
     "static/media/rock-one-eyebrow-raised-rock-staring.gif": "/PoC-Keyboards/static/media/rock-one-eyebrow-raised-rock-staring.4921cda48c9c6f08228f.gif",
     "static/media/1664006918432.jpeg": "/PoC-Keyboards/static/media/1664006918432.bae48853dec4b5249bbd.jpeg",
     "index.html": "/PoC-Keyboards/index.html",
-    "main.ee123ff8.css.map": "/PoC-Keyboards/static/css/main.ee123ff8.css.map",
-    "main.e8d5fdd6.js.map": "/PoC-Keyboards/static/js/main.e8d5fdd6.js.map",
+    "main.ba2a34ce.css.map": "/PoC-Keyboards/static/css/main.ba2a34ce.css.map",
+    "main.fccfe4d6.js.map": "/PoC-Keyboards/static/js/main.fccfe4d6.js.map",
     "453.522c00a7.chunk.js.map": "/PoC-Keyboards/static/js/453.522c00a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee123ff8.css",
-    "static/js/main.e8d5fdd6.js"
+    "static/css/main.ba2a34ce.css",
+    "static/js/main.fccfe4d6.js"
   ]
 }
