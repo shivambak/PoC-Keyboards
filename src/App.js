@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './Home';
 import ReadPage from './ReadPage';
 import NavigationBar from './NavigationBar';
+import LegoPage from './LegoPage';
 
 function App() {
   
