@@ -42,6 +42,7 @@ function NavigationBar() {
       <table>
         <th><Link ref={el => navigationItemsRef.current[0] = el} to="/">Home</Link></th>
         <th><Link ref={el => navigationItemsRef.current[1] = el} to="/things-to-read">Things to Read</Link></th>
+        <th><Link ref={el => navigationItemsRef.current[2] = el} to="/interest-page">Page about Legos</Link></th>
       </table>
     </nav>
   );

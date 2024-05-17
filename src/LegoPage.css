@@ -1,0 +1,50 @@
+.LegoPage {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .LegoPage-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .LegoPage-header h1 {
+    font-size: 3em;
+    margin: 0;
+  }
+  
+  .main-image img {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+  .content {
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .content h2 {
+    color: black;
+    margin-top: 20px;
+  }
+  
+  .content p, .content ul {
+    color: black;
+    font-size: 1.2em;
+  }
+  
+  .additional-images {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .additional-images img {
+    width: 30%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+  }

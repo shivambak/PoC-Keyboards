@@ -14,6 +14,7 @@ function App() {
        <Routes>
           <Route index element={<Home />} />
           <Route path="/things-to-read" element={<ReadPage />} />
+          <Route path="/interest-page" element={<LegoPage />} />
         </Routes>
     </Router>
 
